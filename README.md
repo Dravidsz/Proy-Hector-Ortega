@@ -4,4 +4,4 @@
 -Estados del proyecto en construccion
 
 para ejecutar el sistemas, debes de poner:
-'''npm install react'''
+````npm install react````
